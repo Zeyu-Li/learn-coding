@@ -6,8 +6,10 @@ This is interactive way to learn how to code. This course goes from the basics a
 
 **Chapters**
 
-* [1](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb#scrollTo=mwdJWWx7lfv7)
-* [2]()
+* [1](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb)
+* [2](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%202%20-%20Functions-checkpoint.ipynb)
+* [3]()
+* 
 
 
 
