@@ -4,6 +4,13 @@ This is interactive way to learn how to code. This course goes from the basics a
 
 
 
+**Chapters**
+
+* [1](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb#scrollTo=mwdJWWx7lfv7)
+* [2]()
+
+
+
 ## Requires/Install
 
 This was made with the Jupyter Notebook (previously known as iPython notebook), therefore, it requires [Python](https://www.python.org/downloads/) and the modules **jupyterlab** and **notebook**.
