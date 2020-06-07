@@ -1,19 +1,26 @@
 # Learn Coding
 
-This is interactive way to learn how to code. This course goes from the basics as in data types and variables to more complex subjects like functional vs object oriented programming. The bulk of this course will use Python 3.8 as examples. There will also be exercises to attempt at the end of chapters
+This is interactive way to learn how to code. This course goes from the basics as in data types and variables to more complex subjects like functional vs object oriented programming. The bulk of this course will use Python 3.8 as examples. There will also be exercises to attempt at the end of chapters and answers to the exercises at the end of the next chapter
 
 
+
+The following is a quicklink to Google Colab of the notebooks
 
 **Chapters**
 
-* [1](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb)
-* [2](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%202%20-%20Functions-checkpoint.ipynb)
-* [3]()
-* 
+1. [Data](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%201%20-%20Data-checkpoint.ipynb)
+2. [Functions](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/.ipynb_checkpoints/Chapter%202%20-%20Functions-checkpoint.ipynb)
+3. [Conditions and Loops]()
+4. [Errors]()
+5. 
 
 
 
 ## Requires/Install
+
+If you want to edit this notebook, the following section is for you.
+
+
 
 This was made with the Jupyter Notebook (previously known as iPython notebook), therefore, it requires [Python](https://www.python.org/downloads/) and the modules **jupyterlab** and **notebook**.
 
