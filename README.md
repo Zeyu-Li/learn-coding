@@ -14,7 +14,10 @@ The following is a quicklink to Google Colab of the notebooks
 4. [Structured Data](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%204%20-%20Structured%20Data.ipynb)
 5. [Loops](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%205%20-%20Loops.ipynb)
 6. [Errors](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%206%20-%20Errors.ipynb)
-7. 
+7. [Classes](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%207%20-%20Classes.ipynb)
+8. [Programming Paradigms](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%208%20-%20Programming%20Paradigms.ipynb)
+9. [Misc](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%209%20-%20Misc.ipynb)
+10. [Resources](https://colab.research.google.com/github/Zeyu-Li/learn-coding/blob/master/Chapter%2010%20-%20Resources.ipynb)
 
 
 
